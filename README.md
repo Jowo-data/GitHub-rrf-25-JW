@@ -1,5 +1,6 @@
 # Reproducible Research Fundamentals 2025
 ## Using GitHub for Collaborative Research - README
+### September 30 2025
 
 ## Introduction
 
@@ -7,6 +8,7 @@ Welcome to the DIME Analytics training on GitHub and reproducible workflows. Ove
 
 This repository will serve as your workspace throughout the entire training. Follow the steps outlined below to set up your environment. Once set up, you will continue to work on this repository for the remainder of the sessions.
 
+I am learning how to use the Branch-PR cycle 
 ## Project Overview
 
 You will use this repository locally for the rest of the training, so it is crucial to follow the instructions to import the repository to your machine. We will guide you step by step in the "Using GitHub for Collaborative Research" training, but the instructions are also provided below in case you miss any part.
