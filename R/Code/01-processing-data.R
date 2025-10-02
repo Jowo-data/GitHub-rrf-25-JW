@@ -1,4 +1,4 @@
-# Reproducible Research Fundamentals 
+
 # 01. Data processing
 
 ### Libraries

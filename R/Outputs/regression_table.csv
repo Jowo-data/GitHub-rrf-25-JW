@@ -1,0 +1,29 @@
+
+\begin{table}[!htbp] \centering 
+  \caption{Food Consumption Effects} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}}lccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+\\[-1.8ex] & \multicolumn{3}{c}{Food Consumption (USD)} \\ 
+\\[-1.8ex] & (1) & (2) & (3)\\ 
+\hline \\[-1.8ex] 
+ Treatment & $-$151.093$^{**}$ & $-$190.476$^{**}$ & $-$164.847$^{**}$ \\ 
+  & (76.853) & (76.137) & (70.503) \\ 
+  & & & \\ 
+ Crop Damage &  & 517.018$^{***}$ & 297.520$^{***}$ \\ 
+  &  & (78.966) & (74.206) \\ 
+  & & & \\ 
+ Drought/Flood &  & $-$0.584 & 123.461$^{*}$ \\ 
+  &  & (80.001) & (74.603) \\ 
+  & & & \\ 
+\hline \\[-1.8ex] 
+District Fixed Effects & No & No & Yes \\ 
+Observations & 1,758 & 1,758 & 1,758 \\ 
+Adjusted R$^{2}$ & 0.002 & 0.026 & 0.166 \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{3}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+ & \multicolumn{3}{r}{Standard errors in parentheses} \\ 
+\end{tabular} 
+\end{table} 

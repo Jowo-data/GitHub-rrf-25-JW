@@ -1,0 +1,16 @@
+"district","n","variable","mean","sd"
+"Kibaha",484,"Household size",3.25,1.98
+"Kibaha",484,"Area cultivated (acres)",1.79,1.23
+"Kibaha",484,"Food consumption (USD)",1286.05,1037.73
+"Kibaha",484,"Non-food consumption (USD)",186.21,242.58
+"Kibaha",484,"Children under 5",0.4,0.73
+"Bagamoyo",769,"Household size",4.34,2.85
+"Bagamoyo",769,"Area cultivated (acres)",1.82,1.33
+"Bagamoyo",769,"Food consumption (USD)",2814.99,1644.62
+"Bagamoyo",769,"Non-food consumption (USD)",613.08,586.12
+"Bagamoyo",769,"Children under 5",0.51,0.84
+"Chamwino",505,"Household size",4.13,2.61
+"Chamwino",505,"Area cultivated (acres)",1.8,1.35
+"Chamwino",505,"Food consumption (USD)",2412.26,1583.56
+"Chamwino",505,"Non-food consumption (USD)",510.34,548.67
+"Chamwino",505,"Children under 5",0.47,0.78
